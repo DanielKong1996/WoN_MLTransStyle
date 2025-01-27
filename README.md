@@ -5,3 +5,7 @@ Chinese: 基于机器学习的政经语篇人机翻译风格研究———以�
 
 # File description
 
+Todo:
+- Upload data files and feature files. 
+- Upload experiment results.
+- Upload corpus samples.
