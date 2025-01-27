@@ -9,6 +9,7 @@ Journal: 《外语导刊》2025年第一期
 # Citation
 If you are interested in this article, please cite as follows:
 
+```
 @article{KongDeLu2025JiYuJiQiXueXiDeZhengJingYuPianRenJiFanYiFengGeYanJiuYiGuoFuLunZhongYiBenWeiLi,
 	title = {基于机器学习的政经语篇人机翻译风格研究——以《国富论》中译本为例},
 	volume = {48},
@@ -30,6 +31,7 @@ filename: JFJW202501014
 publicationTag: 北大核心, CSSCI扩展版, AMI扩展
 CIF: 1.436
 AIF: 0.709}
+```
 
 # File description
 
