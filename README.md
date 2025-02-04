@@ -31,11 +31,12 @@ Due to copyright reason, the corpus_sample only listed 10 sample files. And scri
 
 The feature set table in the printed paper is scaled due to length limitation, so you may refer to /Fig/Feature_set.png for the whole feature set. 
 
+
 Todo:
-[x] Upload data files and feature files. 
-[x] Upload experiment results.
-[x] Upload corpus samples.
-[] Upload scripts.
+- [x] Upload data files and feature files.
+- [x] Upload experiment results.
+- [x] Upload corpus samples.
+- [ ] Upload scripts.
 
 # About Delu KONG
 
