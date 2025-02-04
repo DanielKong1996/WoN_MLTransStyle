@@ -23,19 +23,21 @@ If you are interested in this article, please cite as follows:
 	year = {2025},
 	note = {original-container-title: Foreign Languages Bimonthly
 foundation: 国家社会科学基金项目“神经网络机器翻译的译后编辑量化系统模型研究”(19BYY128)； 国家留学基金委员会2024年国家建设高水平大学公派研究生项目(202406260211)；
-album: 哲学与人文科学;信息科技
-CLC: TP181;TP391.2;H085;H315.9
-dbcode: CJFQ
-dbname: CJFDAUTO
-filename: JFJW202501014
-publicationTag: 北大核心, CSSCI扩展版, AMI扩展
-CIF: 1.436
-AIF: 0.709}
+album: 哲学与人文科学;信息科技}
 ```
 
 # File description
+Due to copyright reason, the corpus_sample only listed 10 sample files. And scripts are now under development for a software pack, thus they are not for sharing at the moment. 
+
+The feature set table in the printed paper is scaled due to length limitation, so you may refer to /Fig/Feature_set.png for the whole feature set. 
 
 Todo:
-- Upload data files and feature files. 
-- Upload experiment results.
-- Upload corpus samples.
+[x] Upload data files and feature files. 
+[x] Upload experiment results.
+[x] Upload corpus samples.
+[] Upload scripts.
+
+# About Delu KONG
+
+Great news! Now you may browse my homepage for more information. I can't wait to hear from you! 
+My page: [Delu Kong's webpage](http://delukong.top)
